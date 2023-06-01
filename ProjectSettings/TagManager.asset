@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collider
+  - ChildAnt
+  - Missile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PlayerAnt
+  - AiAnt1
+  - AiAnt2
+  - AiAnt3
+  - FloorL1
+  - FloorL2
+  - FloorL3
+  - FloorL4
+  - FloorL5
+  - FloorL6
+  - PlayerChild
+  - BorderLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particle
+    uniqueID: 2963211509
+    locked: 0
